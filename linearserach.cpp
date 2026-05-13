@@ -1,3 +1,6 @@
+// Program: Linear Search
+// Language: C++
+// Topic: Arrays
 #include<iostream>
 #include<vector>
 using namespace std;
